@@ -6,7 +6,7 @@ I build the plumbing under LLM-powered products — agent runtimes, trading syst
 **Python, Rust, TypeScript, C/C++.**
 *LLM agent infrastructure · RAG systems · gRPC services · trading automation · GenAI media pipelines.*
 
-[LinkedIn](https://linkedin.com/in/gonorovsky) · [sgon.ae](https://sgon.ae) · [X](https://x.com/drmozg)
+[LinkedIn](https://linkedin.com/in/gonorovsky) · [sgon.ai](https://sgon.ai)
 
 
 ## Projects
@@ -32,7 +32,7 @@ End-to-end generative media on one workstation. *FLUX.1* draws stills, *Wan2.2* 
 
 Earlier roles spanned full-stack systems, AI infrastructure, and voice/speech platforms. Same job, different stack each time: build the boring layer correctly so the product team above it can move fast.
 
-**Currently** — shipping my own products at [sgon.ae](https://sgon.ae).
+**Currently** — shipping my own products at [sgon.ai](https://sgon.ai).
 
 ## Tech
 
@@ -51,4 +51,4 @@ Earlier roles spanned full-stack systems, AI infrastructure, and voice/speech pl
 
 ---
 
-📬 Building something in AI and want to compare notes? → [sgon.ae](https://sgon.ae) or drmozg@gmail.com
+📬 Building something in AI and want to compare notes? → [sgon.ai](https://sgon.ai) or drmozg@gmail.com
