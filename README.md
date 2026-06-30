@@ -46,4 +46,4 @@ Earlier roles spanned full-stack systems, AI infrastructure, and voice/speech pl
 
 ---
 
-📬 Building something in AI and want to compare notes? → [sgon.ai](https://sgon.ai) or drmozg@gmail.com
+📬 Building something in AI and want to compare notes? → drmozg@gmail.com
