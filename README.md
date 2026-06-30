@@ -6,9 +6,6 @@ I build the plumbing under LLM-powered products — agent runtimes, trading syst
 **Python, Rust, TypeScript, C/C++.**
 *LLM agent infrastructure · RAG systems · gRPC services · trading automation · GenAI media pipelines.*
 
-[LinkedIn](https://linkedin.com/in/gonorovsky) · [sgon.ai](https://sgon.ai)
-
-
 ## Projects
 
 ### [orno](https://github.com/DoctorMozg/orno) — terraform plan, but for agents
@@ -31,8 +28,6 @@ End-to-end generative media on one workstation. *FLUX.1* draws stills, *Wan2.2* 
 ## Work
 
 Earlier roles spanned full-stack systems, AI infrastructure, and voice/speech platforms. Same job, different stack each time: build the boring layer correctly so the product team above it can move fast.
-
-**Currently** — shipping my own products at [sgon.ai](https://sgon.ai).
 
 ## Tech
 
